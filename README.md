@@ -24,7 +24,7 @@
 
 一个长期的示例：（项目中只需要20日）
 
-![](./Work/example.png)
+![](./intership-quantitative/Work/example.png)
 
 ### /CNN/image、/CNN/log、/CNN/shell、/CNN/result
 
